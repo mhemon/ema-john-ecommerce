@@ -1,0 +1,55 @@
+.review-card{
+    width: 571px;
+    height: 107px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 25px 0;
+    display: flex;
+    align-items: center;
+}
+
+.review-card img{
+    width: 91px;
+    height: 91px;
+    padding: 8px;
+    margin: auto 0;
+    border-radius: 6px;
+}
+
+.review-details{
+    margin: 0 17px;
+    flex-grow: 1;
+}
+
+.review-details .product-title{
+    font-size: 21px;
+    color: #1C2B35;
+    margin: 0;
+}
+
+.review-details p{
+    margin: 0;
+}
+
+.orange-text{
+    color: #FF9900;
+
+}
+
+/* button css */
+
+.btn-container{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background: rgba(235, 87, 87, 0.3);
+    margin-right: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-icon{
+    color: #EB5757;
+    font-size: 27px;
+}
