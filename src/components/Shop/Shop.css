@@ -2,3 +2,22 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+
+.btn-procced{
+    display: flex;
+    justify-content: space-between;
+    font-size: 21px;
+    align-items: center;
+    width: 90%;
+    height: 56px;
+    background: #FF9900;
+    border-radius: 4px;
+    color: white;
+    margin: 0 auto;
+}
+
+.review-order-btn{
+    text-decoration: none;
+}
+
+
